@@ -1,2 +1,2 @@
 cd /etc
-find -type d -maxdepth 1 -mindepth 1
+find -maxdepth 1 -mindepth 1 -type d
