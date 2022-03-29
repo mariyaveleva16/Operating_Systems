@@ -1,1 +1,1 @@
-find /tmp -perm /022 -type f
+find /tmp -perm /022 -group students -type f
