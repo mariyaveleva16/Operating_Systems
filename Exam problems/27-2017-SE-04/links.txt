@@ -1,0 +1,4 @@
+passwd_symlink2 -> /etc/passwd
+new_sym -> /etc/passwd
+passwd_symlink -> /etc/passwd
+2
