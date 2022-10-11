@@ -10,7 +10,7 @@
 
 Subdomain|Theme|Link
 :-|:-|-:
-Exam problems|All tasks included in 2022 FMI longlist on Bash and C|[Problems]()<br>[Problems solutions]()
+Exam problems|All tasks included in 2022 FMI longlist on Bash and C|[Problems](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)<br>[Problems solutions](https://github.com/mariyaveleva16/Operating_Systems/tree/main/Exam%20problems)<br>[Makefile](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/Makefile)
 Exercise presentations|Presentations of exercises on topics concepts, files, text, process, shell|[Presentations](https://github.com/mariyaveleva16/Operating_Systems/tree/main/Exercise%20presentations)
 exercises|FMI exercises problems on commands, pipes, processes and scripts|[Problems](https://github.com/avelin/fmi-os/tree/master/exercises)<br>[Problems solutions](https://github.com/mariyaveleva16/Operating_Systems/tree/main/exercises)
 Hackerrank problems|Hackerrank problems on Bash, Text Processing, Arrays in Bash, Grep Sed Awk|[Poblems]()<br>[Problems solutions]()
