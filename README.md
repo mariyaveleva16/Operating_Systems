@@ -14,5 +14,7 @@ Exam problems|Unix-like Operating Systems – Theory|[**Theory (main)**](https:/
 Exercise presentations|All tasks included in 2020 FMI longlist|[Longlist 2020](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/OS%20Tasks%20Longlist%20'20.pdf)
 exercises|Good coders code, great coders reuse|[Bash Redirection Cheat Sheets](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/Cheat%20sheets/Bash%20Redirections%20Cheat%20Sheet.pdf)<br>[vi Reference Card](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/Cheat%20sheets/Vi%20Reference%20Card.pdf)<br>[Makefile](https://github.com/andy489/Linux_Shell/blob/master/FMI%20Tasks/C/Makefile)
 Hackerrank tasks|[Image editor](https://github.com/andy489/Linux_Shell/blob/master/3%20–%20Project/Image%20editor/Image%20editor.pdf)|[crop [ipoint median_faces rect_faces].sh](https://github.com/andy489/Linux_Shell/blob/master/3%20–%20Project/Image%20editor/crop.sh)<br>[crop_all.sh](https://github.com/andy489/Linux_Shell/blob/master/3%20–%20Project/Image%20editor/crop_all.sh)
+Hackerrank tasks|[Image editor](https://github.com/andy489/Linux_Shell/blob/master/3%20–%20Project/Image%20editor/Image%20editor.pdf)|[crop [ipoint median_faces rect_faces].sh](https://github.com/andy489/Linux_Shell/blob/master/3%20–%20Project/Image%20editor/crop.sh)<br>[crop_all.sh](https://github.com/andy489/Linux_Shell/blob/master/3%20–%20Project/Image%20editor/crop_all.sh)
 
+  
 </div>
