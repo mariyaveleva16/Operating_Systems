@@ -22,6 +22,7 @@ Hackerrank problems|Hackerrank problems on Bash, Text Processing, Arrays in Bash
 Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores]()
 </div>
 
+### FMI Exam problems
 <div align="center">
 N|Subdomain|Task|Solution
 :-:|:-|:-|-:
