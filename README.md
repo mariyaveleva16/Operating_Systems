@@ -27,5 +27,6 @@ Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores](
   
 N|Subdomain|Task|Solution
 :-:|:-|:-|-:
-1-2016-SE-01|Exam problems>1-2016-SE-01| [Exam 2016-SE-01 Task 1](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/1-2016-SE-01/2016-SE-01.sh)<br>[Input file](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/1-2016-SE-01/2016-SE-01.txt)
+1-2016-SE-01|Exam problems>1-2016-SE-01| [Task 1 Exam 2016-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/1-2016-SE-01/2016-SE-01.sh)<br>[Input file](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/1-2016-SE-01/2016-SE-01.txt)
+2-2017-IN-01|Exam problems>2-2017-IN-01| [Task 2 Exam 2017-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/2-2017-IN-01/2017-IN-01.sh)
 </div>
