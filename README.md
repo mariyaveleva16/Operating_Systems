@@ -19,7 +19,7 @@ Exam problems|All tasks included in 2022 FMI longlist on Bash and C|[Problems](h
 Exercise presentations|Presentations of exercises on topics concepts, files, text, process, shell|[Presentations](https://github.com/mariyaveleva16/Operating_Systems/tree/main/Exercise%20presentations)
 exercises|FMI exercises problems on commands, pipes, processes and scripts|[Problems](https://github.com/avelin/fmi-os/tree/master/exercises)<br>[Problems' solutions](https://github.com/mariyaveleva16/Operating_Systems/tree/main/exercises)
 Hackerrank problems|Hackerrank problems on Bash, Text Processing, Arrays in Bash, Grep Sed Awk|[Poblems](https://www.hackerrank.com/domains/shell)<br>[Problems' solutions]()
-Theory|Topics in theory and tasks on semaphores|[Theory exam](https://github.com/mariyaveleva16/Operating_Systems/tree/main/Theory)<br>[Semaphores]()
+Theory|Topics in theory and tasks on semaphores|[Theory exam](https://github.com/mariyaveleva16/Operating_Systems/tree/main/Theory)<br>[Semaphores](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Theory/Semaphores.pdf)
 </div>
 
 ## FMI Exam problems 
