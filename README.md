@@ -118,5 +118,5 @@ N|Subdomain|Task|Solution
 ## Hackerrank
 
 ### Linux Shell
-N|Subdomain|Task|Difffculty|Solution
-:-|:-|:-|:-|-:
+N|Subdomain|Task|Difffculty|Score|Max Score|Solution
+:-|:-|:-|:-|:-|:-|-:
