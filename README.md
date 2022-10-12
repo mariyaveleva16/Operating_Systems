@@ -36,7 +36,6 @@ N|Subdomain|Task|Solution
 7-2018-SE-02|Exam problems/7-2018-SE-02| [Task 7 Exam 2018-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
 8-2018-SE-03!!!|Exam problems/8-2018-SE-03| [Task 8 Exam 2018-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution]()
 9-2019-SE-01|Exam problems/9-2019-SE-01| [Task 9 Exam 2019-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution]()
-  
 10-2019-SE-01|Exam problems/9-2019-SE-01| [Task 9 Exam 2019-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
 11-2019-SE-01|Exam problems/9-2019-SE-01| [Task 9 Exam 2019-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
 12-2019-SE-01|Exam problems/9-2019-SE-01| [Task 9 Exam 2019-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
