@@ -111,5 +111,5 @@ N|Subdomain|Task|Solution
 75-2020-SE-02|Exam problems/75-2020-SE-02| [Task 75 Exam 2020-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
 76-2020-SE-03|Exam problems/76-2020-SE-03| [Task 76 Exam 2020-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
 77-2021-SE-01|Exam problems/77-2021-SE-01| [Task 77 Exam 2021-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
-78-2022-IN-01|Exam problems/78-2022-IN-01| [Task 78 Exam 2022-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution]()
+78-2022-IN-01|Exam problems/78-2022-IN-01| [Task 78 Exam 2022-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/78-2022-IN-01/main.c)
 </div>
