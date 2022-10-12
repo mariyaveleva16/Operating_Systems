@@ -114,3 +114,7 @@ N|Subdomain|Task|Solution
 77-2021-SE-01|Exam problems/77-2021-SE-01| [Task 77 Exam 2021-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
 78-2022-IN-01|Exam problems/78-2022-IN-01| [Task 78 Exam 2022-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/78-2022-IN-01/main.c)
 </div>
+
+## Hackerrank
+
+### Linux Shell
