@@ -118,6 +118,11 @@ N|Subdomain|Task|Solution
 ## Hackerrank
 
 ### Linux Shell
+
+<div align="center">
+  
 N|Subdomain|Task|Difffculty|Score|Max Score|Solution
 :-|:-|:-|:-:|:-:|:-:|-:
 1|Hackerrank - Linux Shell/Bash| [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem?isFullScreen=true) |Easy|1|1| [Solution]()
+
+</div>
