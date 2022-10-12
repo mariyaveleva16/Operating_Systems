@@ -24,7 +24,8 @@ Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores](
 
 ### FMI Exam problems
 <div align="center">
+  
 N|Subdomain|Task|Solution
 :-:|:-|:-|-:
-  Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores]()|A
+131|FMI>C>Processes| [Exam 2020-07-12 Task 2](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/Задaча%202.md)|[foo.c](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/foo.c)<br>[bar.c](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/bar.c)
 </div>
