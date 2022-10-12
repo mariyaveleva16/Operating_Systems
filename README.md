@@ -21,3 +21,8 @@ exercises|FMI exercises problems on commands, pipes, processes and scripts|[Prob
 Hackerrank problems|Hackerrank problems on Bash, Text Processing, Arrays in Bash, Grep Sed Awk|[Poblems](https://www.hackerrank.com/domains/shell)<br>[Problems' solutions]()
 Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores]()
 </div>
+
+<div align="center">
+Task N|Subdomain|Task|Solution
+  :-|:-|-:
+</div>
