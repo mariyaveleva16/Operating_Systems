@@ -23,7 +23,7 @@ Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores](
 </div>
 
 <div align="center">
-Task N|Subdomain|Task|Solution
-:-|:-|:-|-:
+N|Subdomain|Task|Solution
+:-:|:-|:-|-:
   Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores]()|A
 </div>
