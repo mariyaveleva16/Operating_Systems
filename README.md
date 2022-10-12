@@ -124,5 +124,5 @@ N|Subdomain|Task|Solution
 N|Subdomain|Task|Difffculty|Score|Max Score|Solution
 :-|:-|:-|:-:|:-:|:-:|-:
 1|Hackerrank prolems- Linux Shell/Bash| [Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem?isFullScreen=true) |Easy|1|1| [Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Let's%20Echo.sh)
-2|Hackerrank prolems- Linux Shell/Bash|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Looping%20and%20Skipping.sh)
+2|Hackerrank prolems- Linux Shell/Bash|[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem?isFullScreen=true)|Easy|2|2|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Looping%20and%20Skipping.sh)
 </div>
