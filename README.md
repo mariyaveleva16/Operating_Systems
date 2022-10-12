@@ -76,3 +76,40 @@ N|Subdomain|Task|Solution
 47-2022-IN-01|Exam problems/47-2022-IN-01| [Task 47 Exam 2022-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
 48-2022-IN-02|Exam problems/48-2022-IN-02| [Task 48 Exam 2022-IN-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
 </div>
+
+### FMI Exam problems C
+<div align="center">
+  
+N|Subdomain|Task|Solution
+:-:|:-|:-|-:
+49-2016-SE-01|Exam problems/49-2016-SE-01| [Task 49 Exam 2016-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/1-2016-SE-01/2016-SE-01.sh)<br>[Input file](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/1-2016-SE-01/2016-SE-01.txt)
+50-2016-SE-02|Exam problems/50-2016-SE-02| [Task 5 Exam 2016-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/2-2017-IN-01/2017-IN-01.sh)
+51-2016-SE-03|Exam problems/51-2016-SE-03| [Task 51 Exam 2016-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
+52-2017-IN-01|Exam problems/52-2017-IN-01| [Task 52 Exam 2017-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution]()
+53-2017-SE-01|Exam problems/53-2017-SE-01| [Task 53 Exam 2017-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+54-2017-SE-02|Exam problems/54-2017-SE-02| [Task 54 Exam 2017-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+55-2017-SE-03|Exam problems/55-2017-SE-03| [Task 55 Exam 2017-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+56-2017-SE-04|Exam problems/56-2017-SE-04| [Task 56 Exam 2017-SE-04](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution]()
+57-2018-SE-01|Exam problems/57-2018-SE-01| [Task 57 Exam 2018-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution]()
+58|Exam problems/10-2019-SE-02| [Task 10 Exam 10-2019-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+59-2018-SE-03|Exam problems/59-2018-SE-03| [Task 59 Exam 59-2018-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+60|Exam problems/12-2020-SE-01| [Task 12 Exam 2020-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
+61-2019-SE-01|Exam problems/61-2019-SE-01| [Task 61 Exam 2019-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+62-2020-IN-01|Exam problems/62-2020-IN-01| [Task 62 Exam 2020-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+63-2020-SE-01|Exam problems/63-2020-SE-01| [Task 63 Exam 2020-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+64-2020-SE-02|Exam problems/64-2020-SE-02| [Task 64 Exam 2020-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+65|Exam problems/17-2016-SE-03| [Task 17 Exam 2016-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+66|Exam problems/18-2016-SE-03| [Task 18 Exam 2016-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+67|Exam problems/19-2016-SE-04| [Task 19 Exam 2016-SE-04](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+68-2016-SE-01|Exam problems/68-2016-SE-01| [Task 68 Exam 2016-SE-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+69|Exam problems/21-2017-IN-01| [Task 21 Exam 2017-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
+70-2017-IN-01|Exam problems/70-2017-IN-01| [Task 70 Exam 2017-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+71-2017-IN-02|Exam problems/71-2017-IN-02| [Task 71 Exam 2017-IN-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+72|Exam problems/24-2017-SE-02| [Task 24 Exam 2017-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+73|Exam problems/25-2017-SE-02| [Task 25 Exam 2017-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+74|Exam problems/26-2017-SE-03| [Task 26 Exam 2017-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+75|Exam problems/27-2017-SE-04| [Task 27 Exam 2017-SE-04](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+76|Exam problems/28-2017-SE-05| [Task 28 Exam 2017-SE-05](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+77|Exam problems/29-2017-SE-06| [Task 29 Exam 2017-SE-06](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution-a]()<br>[Solution-b]()
+78-2022-IN-01|Exam problems/78-2022-IN-01| [Task 78 Exam 78-2022-IN-01](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
+</div>
