@@ -23,7 +23,7 @@ Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores](
 </div>
 
 ## FMI Exam problems 
-###Shell
+### Exam problems Shell
 <div align="center">
   
 N|Subdomain|Task|Solution
@@ -78,7 +78,7 @@ N|Subdomain|Task|Solution
 48-2022-IN-02|Exam problems/48-2022-IN-02| [Task 48 Exam 2022-IN-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
 </div>
 
-### C
+### Exam problems C
 <div align="center">
   
 N|Subdomain|Task|Solution
