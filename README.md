@@ -1,7 +1,7 @@
 # Operating_Systems
 
 <p align="center">
-  <img src="https://github.com/andy489/Empirical_Methods_and_Statistics/blob/master/_Additional%20Tasks/Volatility.png" height="300" alt="volatility">
+  <img src="https://github.com/mariyaveleva16/Operating_Systems/blob/main/shell_logo.png" height="300" alt="volatility">
 </p>
 
 
