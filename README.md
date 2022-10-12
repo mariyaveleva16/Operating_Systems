@@ -82,7 +82,7 @@ N|Subdomain|Task|Solution
 <div align="center">
   
 N|Subdomain|Task|Solution
-:-:|:-|:-|-:
+:-|:-|:-|-:
 49-2016-SE-01|Exam problems/49-2016-SE-01| [Task 49 Exam 2016-SE-01 (Sort file)](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/49-2016-SE-01/main.c)<br>[Output file](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/49-2016-SE-01/file.txt)
 50-2016-SE-02|Exam problems/50-2016-SE-02| [Task 50 Exam 2016-SE-02](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/50-2016-SE-02/main.c)<br>[Input file(f1)](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/50-2016-SE-02/f1)<br>[Input file(f2)](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/50-2016-SE-02/f2)<br>[Output file(f3)](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/50-2016-SE-02/f3)
 51-2016-SE-03|Exam problems/51-2016-SE-03| [Task 51 Exam 2016-SE-03](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[No-Solution]()
