@@ -120,4 +120,4 @@ N|Subdomain|Task|Solution
 ### Linux Shell
 N|Subdomain|Task|Difffculty|Score|Max Score|Solution
 :-|:-|:-|:-:|:-:|:-:|-:
-1|Hackerrank - Linux Shell/Bash|Let's Echo|Easy|1|1| [Solution]()
+1|Hackerrank - Linux Shell/Bash| [Let's Echo]() |Easy|1|1| [Solution]()
