@@ -27,5 +27,5 @@ Theory|Topics in theory and tasks on semaphores|[Theory exam]()<br>[Semaphores](
   
 N|Subdomain|Task|Solution
 :-:|:-|:-|-:
-1-2016-SE-01|Exam problems>1-2016-SE-01| [Exam 2020-07-12 Task 2](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/Задaча%202.md)|[foo.c](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/foo.c)<br>[bar.c](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/bar.c)
+1-2016-SE-01|Exam problems>1-2016-SE-01| [Exam 2016-SE-01 Task 1](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/Задaча%202.md](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Exam%20problems/exam-problems-2022.pdf)|[foo.c](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/foo.c)<br>[bar.c](https://github.com/andy489/Linux_Shell/blob/master/1%20–%20FMI%20Tasks/C%20Processes/bar.c)
 </div>
