@@ -136,4 +136,15 @@ N|Subdomain|Task|Difffculty|Score|Max Score|Solution
 10|Hackerrank prolems- Linux Shell/Bash|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem?isFullScreen=true)|Medium|4|4|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Compute%20the%20Average.sh)
 11|Hackerrank prolems- Linux Shell/Bash|[]()|Hard|0|30|[Solution]()
 12|Hackerrank prolems- Linux Shell/Text Processing|[Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%231.sh)
+13|Hackerrank prolems- Linux Shell/Text Processing|[Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%232.sh)
+14|Hackerrank prolems- Linux Shell/Text Processing|[Cut #3](https://www.hackerrank.com/challenges/text-processing-cut-3/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%233.sh)
+15|Hackerrank prolems- Linux Shell/Text Processing|[Cut #4](https://www.hackerrank.com/challenges/text-processing-cut-4/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%234.sh)
+16|Hackerrank prolems- Linux Shell/Text Processing|[Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%235.sh)
+17|Hackerrank prolems- Linux Shell/Text Processing|[Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%236.sh)
+18|Hackerrank prolems- Linux Shell/Text Processing|[Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%238.sh)
+19|Hackerrank prolems- Linux Shell/Text Processing|[Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem?isFullScreen=true)|Easy|1|1|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Text%20Processing/Cut%20%239.sh)
+  13|Hackerrank prolems- Linux Shell/Text Processing|[]()|Easy|1|1|[Solution]()
+  13|Hackerrank prolems- Linux Shell/Text Processing|[]()|Easy|1|1|[Solution]()
+  13|Hackerrank prolems- Linux Shell/Text Processing|[]()|Easy|1|1|[Solution]()
+  
 </div>
