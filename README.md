@@ -133,4 +133,7 @@ N|Subdomain|Task|Difffculty|Score|Max Score|Solution
 8|Hackerrank prolems- Linux Shell/Bash|[More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem?isFullScreen=true)|Easy|3|3|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/More%20on%20Conditionals.sh)
 9|Hackerrank prolems- Linux Shell/Bash|[Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem?isFullScreen=true)|Medium|3|3|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Arithmetic%20Operations.sh)
 10|Hackerrank prolems- Linux Shell/Bash|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem?isFullScreen=true)|Medium|4|4|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Compute%20the%20Average.sh)
+10|Hackerrank prolems- Linux Shell/Bash|[Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem?isFullScreen=true)|Medium|4|4|[Solution](https://github.com/mariyaveleva16/Operating_Systems/blob/main/Hackerrank%20problems%20-%20Linux%20Shell/Bash/Compute%20the%20Average.sh)
+11|Hackerrank prolems- Linux Shell/Bash|[]()|Hard|0|30|[Solution]()
+12|Hackerrank prolems- Linux Shell/Text Processing|[]()|Easy|1|1|[Solution]()
 </div>
